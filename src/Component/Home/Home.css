@@ -1,0 +1,24 @@
+/*  */
+.banner1 {
+    background-image: url(../../Photo/stadium.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 400px;
+    background-size:cover;
+}
+
+.banner-text{
+
+    color: white;
+    margin-top:20%;
+}
+
+.logoImage{
+    height: 100px;
+    width: 500px;
+}
+
+.banner1 img{
+    height: 300px;
+    width: 100%;
+}

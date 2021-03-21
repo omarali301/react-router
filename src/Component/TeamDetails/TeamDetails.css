@@ -1,0 +1,32 @@
+.bg-color{
+
+    background : blue;
+    color : white;
+}
+
+
+.banner img{
+    height: 300px;
+    width: 100%;
+}
+
+.banner {
+    background-image: url(../../Photo/stadium.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 400px;
+    background-size:cover;
+}
+
+
+.icon{
+    float: left;
+    margin-left: 25%;
+    padding: 10%;
+
+}
+
+.icon img{
+height:50px;
+
+}
